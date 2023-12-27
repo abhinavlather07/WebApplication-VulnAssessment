@@ -1,0 +1,5 @@
+The project includes the use of Burp Suite:Community Edition tool to find the vulnerability in a web application.
+The site which was a target is http://testphp.vulnweb.com/
+Burp Suite acts as an intermediate for the packet to be sent to the server.
+It captures the request and also the critical credentials which are entered by the user.
+We can run any kind of attack such as XSS,SQL injection etc using the payload of the website.
